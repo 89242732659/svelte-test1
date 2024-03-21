@@ -39,10 +39,7 @@
     </div> 
     <div class='background-div'></div>
     <style> 
-        .container { 
-            max-width: 1400px;  
-            margin: 50px auto; 
-            } 
+        
          .info { 
          text-align: center;  
          position: relative; 
@@ -96,7 +93,7 @@
          cursor: pointer; 
          } 
           
-         .scroll-button.arrow { 
+         .scroll-button .arrow { 
          margin-left: 0.50rem; 
          } 
         </style>
